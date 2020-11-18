@@ -6,7 +6,7 @@ Forked from flarum-auth-facebook with hope for easy compatibility fixes for new 
 
 This extension enables Google Sign In and Sign up.
 
-Compatible with Flarum Beta 8.x
+Compatible with Flarum Beta 14.x
 
 ## Installation
 
@@ -21,11 +21,6 @@ Compatible with Flarum Beta 8.x
 Enable the extension under the extensions tab in the admin area.
 
 Make sure you configure app ID and secret in extension settings.
-
-## Support
-
-If you like this extension,  you can
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mYcXNyqkd)
 
 ## Links
 
