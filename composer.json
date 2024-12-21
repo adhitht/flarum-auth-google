@@ -19,7 +19,7 @@
         "source": "https://github.com/saleksin/flarum-auth-google"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.8",
+        "flarum/core": "^2.0.0",
         "league/oauth2-google": "^3.0"
     },
     "autoload": {
